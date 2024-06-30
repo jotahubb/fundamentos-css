@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    margin: 10px;
+    padding: 10px;
+}
+
+li{
+    background-color: #222;
+    color: #eee;
+    display: inline-block;
+    padding-top: 35px;
+    padding-right: 70px;
+    padding-bottom: 180px;
+    padding-left: 35px;
+    margin: 20px;
+    border-radius: 4px;
+    border: solid 3px transparent;
+}
+
+.hidden {
+    display: none;
+}
+
+.selected {
+    background-color: #3e3c3c;
+    border: rgb(65, 52, 255) solid 3px;
+}
